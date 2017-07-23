@@ -15,6 +15,9 @@
 		44BF0A9B1EE6872C00235DF1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44BF0A991EE6872C00235DF1 /* LaunchScreen.storyboard */; };
 		44BF0AA61EE6872D00235DF1 /* XmlParsingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 44BF0AA51EE6872D00235DF1 /* XmlParsingTests.m */; };
 		44BF0AB11EE6872D00235DF1 /* XmlParsingUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 44BF0AB01EE6872D00235DF1 /* XmlParsingUITests.m */; };
+		44BF0ABF1EE6874900235DF1 /* characters.xml in Resources */ = {isa = PBXBuildFile; fileRef = 44BF0ABE1EE6874900235DF1 /* characters.xml */; };
+		44BF0AC21EE695C600235DF1 /* AllCategeriesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 44BF0AC11EE695C600235DF1 /* AllCategeriesViewController.m */; };
+		44BF0AC51EE6989F00235DF1 /* CharactersViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 44BF0AC41EE6989F00235DF1 /* CharactersViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +54,11 @@
 		44BF0AAC1EE6872D00235DF1 /* XmlParsingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XmlParsingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		44BF0AB01EE6872D00235DF1 /* XmlParsingUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XmlParsingUITests.m; sourceTree = "<group>"; };
 		44BF0AB21EE6872D00235DF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44BF0ABE1EE6874900235DF1 /* characters.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = characters.xml; sourceTree = "<group>"; };
+		44BF0AC01EE695C600235DF1 /* AllCategeriesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllCategeriesViewController.h; sourceTree = "<group>"; };
+		44BF0AC11EE695C600235DF1 /* AllCategeriesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllCategeriesViewController.m; sourceTree = "<group>"; };
+		44BF0AC31EE6989F00235DF1 /* CharactersViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CharactersViewController.h; sourceTree = "<group>"; };
+		44BF0AC41EE6989F00235DF1 /* CharactersViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CharactersViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +109,15 @@
 		44BF0A8A1EE6872C00235DF1 /* XmlParsing */ = {
 			isa = PBXGroup;
 			children = (
+				44BF0ABE1EE6874900235DF1 /* characters.xml */,
 				44BF0A8E1EE6872C00235DF1 /* AppDelegate.h */,
 				44BF0A8F1EE6872C00235DF1 /* AppDelegate.m */,
 				44BF0A911EE6872C00235DF1 /* ViewController.h */,
 				44BF0A921EE6872C00235DF1 /* ViewController.m */,
+				44BF0AC31EE6989F00235DF1 /* CharactersViewController.h */,
+				44BF0AC41EE6989F00235DF1 /* CharactersViewController.m */,
+				44BF0AC01EE695C600235DF1 /* AllCategeriesViewController.h */,
+				44BF0AC11EE695C600235DF1 /* AllCategeriesViewController.m */,
 				44BF0A941EE6872C00235DF1 /* Main.storyboard */,
 				44BF0A971EE6872C00235DF1 /* Assets.xcassets */,
 				44BF0A991EE6872C00235DF1 /* LaunchScreen.storyboard */,
@@ -247,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				44BF0A9B1EE6872C00235DF1 /* LaunchScreen.storyboard in Resources */,
+				44BF0ABF1EE6874900235DF1 /* characters.xml in Resources */,
 				44BF0A981EE6872C00235DF1 /* Assets.xcassets in Resources */,
 				44BF0A961EE6872C00235DF1 /* Main.storyboard in Resources */,
 			);
@@ -273,8 +287,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44BF0AC21EE695C600235DF1 /* AllCategeriesViewController.m in Sources */,
 				44BF0A931EE6872C00235DF1 /* ViewController.m in Sources */,
 				44BF0A901EE6872C00235DF1 /* AppDelegate.m in Sources */,
+				44BF0AC51EE6989F00235DF1 /* CharactersViewController.m in Sources */,
 				44BF0A8D1EE6872C00235DF1 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

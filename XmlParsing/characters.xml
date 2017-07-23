@@ -1,0 +1,255 @@
+<Characters>
+    <Load Type="Boys" Path="images/Character/Alim.png"/>
+    <Load Type="Boys" Path="images/Character/Anisah.png"/>
+    <Load Type="Boys" Path="images/Character/Bee.png"/>
+    <Load Type="Boys" Path="images/Character/Gilli.png"/>
+    <Load Type="Boys" Path="images/Character/Hafiz2005.png"/>
+    <Load Type="Boys" Path="images/Character/Hafiz.png"/>
+    <Load Type="Boys" Path="images/Character/Humbi.png"/>
+    <Load Type="Boys" Path="images/Character/Lamya.png"/>
+    <Load Type="Boys" Path="images/Character/MrBoy.png"/>
+    <Load Type="Boys" Path="images/Character/Naggy.png"/>
+    <Load Type="Boys" Path="images/Character/Niyaf.png"/>
+    <Load Type="Boys" Path="images/Character/Sutti.png"/>
+    <Load Type="Boys" Path="images/Character/Tun.png"/>
+    <Load Type="Boys" Path="images/Character/Alaa.png"/>
+    <Load Type="Boys" Path="images/Character/Emir.png"/>
+    <Load Type="Boys" Path="images/Character/Basel.png"/>
+    <Load Type="Men"  Path="images/Character/Zeem.png"/>
+    <Load Type="Men"  Path="images/Character/Boogie.png"/>
+    <Load Type="Men"  Path="images/Character/Cartoon_12.png"/>
+    <Load Type="Men"  Path="images/Character/Cartoon_20.png"/>
+    <Load Type="Men"  Path="images/Character/Goonie.png"/>
+    <Load Type="Men"  Path="images/Character/Mays.png"/>
+    <Load Type="Men"  Path="images/Character/Sumo.png"/>
+    
+    <Load Type="Men" Path="images/Character/Abusaleh.png"></Load>
+    <Load Type="Men" Path="images/Character/Argentina_man.png"></Load>
+    <Load Type="Men" Path="images/Character/Chinese_man.png"></Load>
+    <Load Type="Men" Path="images/Character/Fatzo.png"></Load>
+    <Load Type="Men" Path="images/Character/French_man.png"></Load>
+    <Load Type="Men" Path="images/Character/German_man.png"></Load>
+    <Load Type="Men" Path="images/Character/Indian_man.png"></Load>
+    <Load Type="Men" Path="images/Character/Irish_man.png"></Load>
+    <Load Type="Men" Path="images/Character/Italian_man.png"></Load>
+    <Load Type="Men" Path="images/Character/Japanese_man.png"></Load>
+    <Load Type="Men" Path="images/Character/Korean_man.png"></Load>
+    <Load Type="Men" Path="images/Character/Mexican_man.png"></Load>
+    <Load Type="Men" Path="images/Character/Russian_man.png"></Load>
+    <Load Type="Men" Path="images/Character/Spanish_man.png"></Load>
+    <Load Type="Men" Path="images/Character/Turkey_man.png"></Load>
+    <Load Type="Men" Path="images/Character/Ghana_man.png"></Load>
+    
+    <Load Type="Girls" Path="images/Character/Alima.png"/>
+    <Load Type="Girls" Path="images/Character/Ayn.png"/>
+    <Load Type="Girls" Path="images/Character/Isar.png"/>
+    <Load Type="Girls" Path="images/Character/Maggy.png"/>
+    <Load Type="Girls" Path="images/Character/Mun.png"/>
+    <Load Type="Girls" Path="images/Character/Nashid.png"/>
+    <Load Type="Girls" Path="images/Character/Cartoon_14.png"/>
+    <Load Type="Girls" Path="images/Character/Cartoon_15.png"/>
+    <Load Type="Girls" Path="images/Character/BabyGirl_01.png"/>
+    <Load Type="Girls" Path="images/Character/Girl_01.png"/>
+    <Load Type="Girls" Path="images/Character/Sheen.png"/>
+    <Load Type="Girls" Path="images/Character/Thumbi_01.png"/>
+    <Load Type="Girls" Path="images/Character/Thumbi_02.png"/>
+    <Load Type="Girls" Path="images/Character/Baha.png"/>
+    <Load Type="Girls" Path="images/Character/Hend.png"/>
+    <Load Type="Girls" Path="images/Character/Bintu.png"/>
+    <Load Type="Women" Path="images/Character/Azza.png"/>
+    <Load Type="Women" Path="images/Character/Meen.png"/>
+    <Load Type="Women" Path="images/Character/Nurse.png"/>
+    <Load Type="Women" Path="images/Character/Red_Zayn.png"/>
+    <Load Type="Women" Path="images/Character/Sibal.png"/>
+    
+    <Load Type="Women" Path="images/Character/Argentina_lady.png"/>
+    <Load Type="Women" Path="images/Character/Chinese_lady.png"/>
+    <Load Type="Women" Path="images/Character/German_lady.png"/>
+    <Load Type="Women" Path="images/Character/German_lady_c2.png"/>
+    <Load Type="Women" Path="images/Character/French_lady.png"/>
+    <Load Type="Women" Path="images/Character/Indian_lady.png"/>
+    <Load Type="Women" Path="images/Character/Irish_lady.png"/>
+    <Load Type="Women" Path="images/Character/Italian_lady.png"/>
+    <Load Type="Women" Path="images/Character/Japanese_lady.png"/>
+    <Load Type="Women" Path="images/Character/Korean_lady.png"/>
+    <Load Type="Women" Path="images/Character/Mexican_lady.png"/>
+    <Load Type="Women" Path="images/Character/Russian_lady.png"/>
+    <Load Type="Women" Path="images/Character/Spanish_lady.png"/>
+    <Load Type="Women" Path="images/Character/Turkey_lady.png"/>
+    <Load Type="Women" Path="images/Character/Ghana_lady.png"/>
+   
+    <Load Type="Animal1" Path="images/Character/American_Bison.png"/>
+    <Load Type="Animal1" Path="images/Character/Badger.png"/>
+    <Load Type="Animal1" Path="images/Character/Bear.png"/>
+    <Load Type="Animal1" Path="images/Character/Billa.png"/>
+    <Load Type="Animal1" Path="images/Character/Bob_Cat.png"/>
+    <Load Type="Animal1" Path="images/Character/Camel.png"/>
+    <Load Type="Animal1" Path="images/Character/Capybara.png"/>
+    <Load Type="Animal1" Path="images/Character/Cat.png"/>
+    <Load Type="Animal1" Path="images/Character/Dog.png"/>
+    <Load Type="Animal1" Path="images/Character/Elephant.png"/>
+    <Load Type="Animal1" Path="images/Character/Flying_Squirrel.png"/>
+    <Load Type="Animal1" Path="images/Character/Gaditha.png"/>
+    <Load Type="Animal1" Path="images/Character/Gibbu.png"/>
+    <Load Type="Animal1" Path="images/Character/Guttan.png"/>
+    <Load Type="Animal1" Path="images/Character/Henna.png"/>
+    <Load Type="Animal1" Path="images/Character/Hippo.png"/>
+    <Load Type="Animal1" Path="images/Character/Howler_Monkey.png"/>
+    <Load Type="Animal1" Path="images/Character/Ibex.png"/>
+    <Load Type="Animal1" Path="images/Character/Kangaroo.png"/>
+    <Load Type="Animal1" Path="images/Character/Kangaroo_Rat.png"/>
+    <Load Type="Animal1" Path="images/Character/Langur.png"/>
+    <Load Type="Animal1" Path="images/Character/Lemur.png"/>
+    <Load Type="Animal1" Path="images/Character/Loby.png"/>
+    <Load Type="Animal1" Path="images/Character/Goat.png"/>
+    <Load Type="Animal1" Path="images/Character/Lion.png"/>
+    <Load Type="Animal1" Path="images/Character/Marmo.png"/>
+    <Load Type="Animal2" Path="images/Character/Meer_Cat.png"/>
+    <Load Type="Animal2" Path="images/Character/megala.png"/>
+    <Load Type="Animal2" Path="images/Character/Mookan.png"/>
+    <Load Type="Animal2" Path="images/Character/Mowcy.png"/>
+    <Load Type="Animal2" Path="images/Character/Muskox.png"/>
+    <Load Type="Animal2" Path="images/Character/Muyal.png"/>
+    <Load Type="Animal2" Path="images/Character/OliveBaboon.png"/>
+    <Load Type="Animal2" Path="images/Character/Panda_Bear.png"/>
+    <Load Type="Animal2" Path="images/Character/Porcupine.png"/>
+    <Load Type="Animal2" Path="images/Character/Rabbit.png"/>
+    <Load Type="Animal2" Path="images/Character/Rango.png"/>
+    <Load Type="Animal2" Path="images/Character/Redfox.png"/>
+    <Load Type="Animal2" Path="images/Character/Rhino.png"/>
+    <Load Type="Animal2" Path="images/Character/Saddler.png"/>
+    <Load Type="Animal2" Path="images/Character/Singakuti.png"/>
+    <Load Type="Animal2" Path="images/Character/Spotted_Hyena.png"/>
+    <Load Type="Animal2" Path="images/Character/Squirrel.png"/>
+    <Load Type="Animal2" Path="images/Character/Tamarin.png"/>
+    <Load Type="Animal2" Path="images/Character/Tasmanian_Wolf.png"/>
+    <Load Type="Animal2" Path="images/Character/Tomew.png"/>
+    <Load Type="Animal2" Path="images/Character/Triceratops.png"/>
+    <Load Type="Animal2" Path="images/Character/Tyrannosaur.png"/>
+    <Load Type="Animal2" Path="images/Character/Zabru.png"/>
+    <Load Type="Animal2" Path="images/Character/zangli.png"/>
+    <Load Type="Animal3" Path="images/Character/Beauty.png"/>
+    <Load Type="Animal3" Path="images/Character/chameleon.png"/>
+    <Load Type="Animal3" Path="images/Character/Chittu.png"/>
+    <Load Type="Animal3" Path="images/Character/Crowned_Crane.png"/>
+    <Load Type="Animal3" Path="images/Character/Falcon.png"/>
+    <Load Type="Animal3" Path="images/Character/Frog.png"/>
+    <Load Type="Animal3" Path="images/Character/Gudlu_goobi.png"/>
+    <Load Type="Animal3" Path="images/Character/Hen.png"/>
+    <Load Type="Animal3" Path="images/Character/Henan.png"/>
+    <Load Type="Animal3" Path="images/Character/Hopper_Fem.png"/>
+    <Load Type="Animal3" Path="images/Character/Kaka.png"/>
+    <Load Type="Animal3" Path="images/Character/Keet.png"/>
+    <Load Type="Animal3" Path="images/Character/Koolaikada.png"/>
+    <Load Type="Animal3" Path="images/Character/Kosu.png"/>
+    <Load Type="Animal3" Path="images/Character/Meditha.png"/>
+    <Load Type="Animal3" Path="images/Character/More.png"/>
+    <Load Type="Animal3" Path="images/Character/Mr_Nald.png"/>
+    <Load Type="Animal3" Path="images/Character/Narri.png"/>
+    <Load Type="Animal3" Path="images/Character/Ostrich.png"/>
+    <Load Type="Animal3" Path="images/Character/Parkeet.png"/>
+    <Load Type="Animal3" Path="images/Character/Pheasant.png"/>
+    <Load Type="Animal3" Path="images/Character/Tucs.png"/>
+    <Load Type="Animal3" Path="images/Character/Vaan_Kozhi.png"/>
+    <Load Type="Animal3" Path="images/Character/Vavval.png"/>
+    <Load Type="Animal3" Path="images/Character/Deer.png"/>
+    <Load Type="Animal3" Path="images/Character/Pigeon.png"/>
+    <Load Type="Animal3" Path="images/Character/Fish.png"/>
+<!--    <Load Type="Animal3" Path="images/Character/Ant.png"/>-->
+    <Load Type="Animal4" Path="images/Character/Appan.png"/>
+    <Load Type="Animal4" Path="images/Character/Armad.png"/>
+    <Load Type="Animal4" Path="images/Character/Buffi_1.png"/>
+    <Load Type="Animal4" Path="images/Character/Buffi_2.png"/>
+    <Load Type="Animal4" Path="images/Character/Buffi_3.png"/>
+    <Load Type="Animal4" Path="images/Character/Buffi_4.png"/>
+    <Load Type="Animal4" Path="images/Character/Goada.png"/>
+    <Load Type="Animal4" Path="images/Character/Ish.png"/>
+    <Load Type="Animal4" Path="images/Character/Kangoo.png"/>
+    <Load Type="Animal4" Path="images/Character/Kengayan.png"/>
+    <Load Type="Animal4" Path="images/Character/Lolo.png"/>
+    <Load Type="Animal4" Path="images/Character/Minnal.png"/>
+    <Load Type="Animal4" Path="images/Character/Mrs_Yanni.png"/>
+    <Load Type="Animal4" Path="images/Character/Mullan.png"/>
+    <Load Type="Animal4" Path="images/Character/Nakkal.png"/>
+    <Load Type="Animal4" Path="images/Character/Panky_Ponky.png"/>
+    <Load Type="Animal4" Path="images/Character/Panther.png"/>
+    <Load Type="Animal4" Path="images/Character/Stouty.png"/>
+    <Load Type="Animal4" Path="images/Character/Tiger.png"/>
+    <Load Type="Animal4" Path="images/Character/Tuti.png"/>
+    <Load Type="Animal4" Path="images/Character/yanni.png"/>
+    <Load Type="Animal4" Path="images/Character/Yaani_boy.png"/>
+    <Load Type="Animal4" Path="images/Character/Yanni_Girl.png"/>
+    <Load Type="Animal4" Path="images/Character/Zinga.png"/>
+    <Load Type="Object" Path="images/Character/Book.png"/>
+    <Load Type="Object" Path="images/Character/Brain.png"/>
+    <Load Type="Object" Path="images/Character/Clippon.png"/>
+    <Load Type="Object" Path="images/Character/Compass.png"/>
+    <Load Type="Object" Path="images/Character/Dropy.png"/>
+    <Load Type="Object" Path="images/Character/Natraj_Pencil.png"/>
+    <Load Type="Object" Path="images/Character/Palm_Tree.png"/>
+    <Load Type="Object" Path="images/Character/Pen.png"/>
+    <Load Type="Professionals" Path="images/Character/Dr_SIM.png"/>
+    <Load Type="Professionals" Path="images/Character/FireMan.png"/>
+    <Load Type="Professionals" Path="images/Character/Joker.png"/>
+    <Load Type="Professionals" Path="images/Character/Kuch.png"/>
+    <Load Type="Professionals" Path="images/Character/Lab_Technician.png"/>
+    <Load Type="Professionals" Path="images/Character/Police_Man.png"/>
+    <Load Type="Professionals" Path="images/Character/Rasmiyah.png"/>
+    <Load Type="Professionals" Path="images/Character/Cartoon_05.png"/>
+    <Load Type="Professionals" Path="images/Character/Cartoon_10.png"/>
+    <Load Type="Professionals" Path="images/Character/Executive.png"/>
+    <Load Type="Professionals" Path="images/Character/Cook_Man.png"/>
+    <Load Type="Professionals" Path="images/Character/Space_Man.png"/>
+    <Load Type="Arab Boys" Path="images/Character/Boy01.png"/>
+    <Load Type="Arab Boys" Path="images/Character/Chinnodu.png"/>
+    <Load Type="Arab Boys" Path="images/Character/Hafiz_Prayer.png"/>
+    <Load Type="Arab Boys" Path="images/Character/BabyBoy_02.png"/>
+    <Load Type="Arab Boys" Path="images/Character/Boy04.png"/>
+    <Load Type="Arab Boys" Path="images/Character/Cartoon_04.png"/>
+    <Load Type="Arab Boys" Path="images/Character/Cartoon_19.png"/>
+    <Load Type="Arab Boys" Path="images/Character/BabyBoy_01.png"/>
+    <Load Type="Arab Boys" Path="images/Character/Boy02.png"/>
+    <Load Type="Arab Boys" Path="images/Character/Boy03.png"/>
+    <Load Type="Arab Men1" Path="images/Character/Doctor.png"/>
+    <Load Type="Arab Men1" Path="images/Character/Adil.png"/>
+    <Load Type="Arab Men1" Path="images/Character/BeggerMan.png"/>
+    <Load Type="Arab Men1" Path="images/Character/BlazerMan.png"/>
+    <Load Type="Arab Men1" Path="images/Character/Boy05.png"/>
+    <Load Type="Arab Men1" Path="images/Character/Cartoon_06.png"/>
+    <Load Type="Arab Men1" Path="images/Character/Cartoon_09.png"/>
+    <Load Type="Arab Men1" Path="images/Character/Cartoon_17.png"/>
+    <Load Type="Arab Men1" Path="images/Character/Good_Sir.png"/>
+    <Load Type="Arab Men1"  Path="images/Character/Man_03.png"/>
+    <Load Type="Arab Men1"  Path="images/Character/Man.png"/>
+    <Load Type="Arab Men1"  Path="images/Character/Man_01.png"/>
+    <Load Type="Arab Men1"  Path="images/Character/Man_02.png"/>
+    <Load Type="Arab Men1"  Path="images/Character/Man_04.png"/>
+    <Load Type="Arab Men1"  Path="images/Character/Man_06.png"/>
+    <Load Type="Arab Men1"  Path="images/Character/Old_Man04.png"/>
+    <Load Type="Arab Men1"  Path="images/Character/Old_Man02.png"/>
+    <Load Type="Arab Men1"  Path="images/Character/Man05.png"/>
+    <Load Type="Arab Men1"  Path="images/Character/Man_07.png"/>
+    <Load Type="Arab Men2"  Path="images/Character/Old_Man01.png"/>
+    <Load Type="Arab Men2"  Path="images/Character/Cartoon_07.png"/>
+    <Load Type="Arab Men2"  Path="images/Character/Cartoon_01.png"/>
+    <Load Type="Arab Men2"  Path="images/Character/Cartoon_02.png"/>
+    <Load Type="Arab Men2"  Path="images/Character/Cartoon_03.png"/>
+    <Load Type="Arab Men2"  Path="images/Character/Cartoon_08.png"/>
+    <Load Type="Arab Men2"  Path="images/Character/Cartoon_11.png"/>
+    <Load Type="Arab Men2"  Path="images/Character/Cartoon_13.png"/>
+    <Load Type="Arab Men2"  Path="images/Character/Cartoon_18.png"/>
+    <Load Type="Arab Men2"  Path="images/Character/MedicineMan.png"/>
+    <Load Type="Arab Men2"  Path="images/Character/Old_Man03.png"/>
+    <Load Type="Arab Men2"  Path="images/Character/Sudan_Man_Cartoon.png"/>
+    <Load Type="Arab Women" Path="images/Character/Collage_Girl.png"/>
+    <Load Type="Arab Women" Path="images/Character/Rizwa.png"/>
+    <Load Type="Arab Women" Path="images/Character/Fatimus.png"/>
+    <Load Type="Arab Women" Path="images/Character/Women01.png"/>
+    <Load Type="Arab Women" Path="images/Character/Women02.png"/>
+    <Load Type="Arab Women" Path="images/Character/Cartoon_16.png"/>
+    <Load Type="Arab Women" Path="images/Character/Girl_02.png"/>
+    <Load Type="Arab Women" Path="images/Character/Mother.png"/>
+    <Load Type="Arab Women" Path="images/Character/BabyGirl_02.png"/>
+    <Load Type="Arab Women" Path="images/Character/Old_Women02.png"/>
+    <Load Type="Arab Women" Path="images/Character/Old_Women01.png"/>
+</Characters>
